@@ -33,6 +33,13 @@ This project was built using the following technologies:
 # User Interface Preview
 ![Screenshot 2023-04-22 105449](https://user-images.githubusercontent.com/99062720/233764934-38f175f1-9342-4ee1-8399-ef77fabead20.png)
 ![Screenshot 2023-04-22 105531](https://user-images.githubusercontent.com/99062720/233764945-aec17eca-a0d4-4ae9-ab28-6e59e29e7921.png)
+![Screenshot 2023-04-22 105830](https://user-images.githubusercontent.com/99062720/233764983-2079abdc-409c-485a-90ae-d6440bb412ad.png)
+![Screenshot 2023-04-22 105850](https://user-images.githubusercontent.com/99062720/233764988-3e0dad37-f8c4-456a-941d-9b201f7c7d37.png)
+![Screenshot 2023-04-22 105910](https://user-images.githubusercontent.com/99062720/233764993-7c363a12-5387-41df-82b8-6fd1b8288581.png)
+![Screenshot 2023-04-22 110029](https://user-images.githubusercontent.com/99062720/233765000-7319d5f0-78ee-4fc0-b54e-a28d7d089895.png)
+![Screenshot 2023-04-22 110120](https://user-images.githubusercontent.com/99062720/233765018-f03dc44d-0925-49d5-ab54-1a55e76601ae.png)
+![Screenshot 2023-04-22 110138](https://user-images.githubusercontent.com/99062720/233765029-9c8ad876-400c-4a8c-9aad-fb4c33cc1bde.png)
+
 
 # Contributors
  Ayush Singh
