@@ -30,6 +30,10 @@ This project was built using the following technologies:
 * Java 8
 * Java Swing
 * MySQL and SQL
+# User Interface Preview
+![Screenshot 2023-04-22 105449](https://user-images.githubusercontent.com/99062720/233764934-38f175f1-9342-4ee1-8399-ef77fabead20.png)
+![Screenshot 2023-04-22 105531](https://user-images.githubusercontent.com/99062720/233764945-aec17eca-a0d4-4ae9-ab28-6e59e29e7921.png)
+
 # Contributors
  Ayush Singh
 
