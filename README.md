@@ -3,8 +3,8 @@ This is a Java-based desktop application for managing airline reservations. It u
 # Requirements
 To run this application, you need to have the following installed on your machine:
 
-Java Development Kit (JDK) 8 or later
-MySQL server 5.7 or later
+* Java Development Kit (JDK) 8 or later
+* MySQL server 5.7 or later
 # Installation
 To install and run this application, follow these steps:
 
